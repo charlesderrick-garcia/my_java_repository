@@ -11,5 +11,5 @@ How to Run:
 5. Run the program.
 
 **Created by:**
-_Charles Derrick A. Garcia 
-Bachelor of Science in Computer Science _
+Charles Derrick A. Garcia 
+Bachelor of Science in Computer Science
