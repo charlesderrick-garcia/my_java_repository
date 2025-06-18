@@ -15,11 +15,8 @@ To compile and run this Java application, follow these steps:
 1. **Save the file:** Save the code as LabActivity1EmployeeInformationSystem.java.  
 2. **Open a terminal or command prompt.**  
 3. **Navigate to the directory** where you saved the file.  
-4. **Compile the Java code:**  
-   javac LabActivity1EmployeeInformationSystem.java
-
-5. **Run the compiled program:**  
-   java LabActivity1EmployeeInformationSystem
+4. **Compile the Java code.**  
+5. **Run the compiled program.**  
 
 ## **Example Usage**
 
