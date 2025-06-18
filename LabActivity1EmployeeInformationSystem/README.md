@@ -1,4 +1,4 @@
-# **Employee Information System**
+# **Lab Activity 1: Employee Information System**
 
 This Java program is a basic Employee Information System that simulates collecting personal and work-related input from the user, as well as calculating the employee's daily salary. This program was created for a laboratory activity.
 
