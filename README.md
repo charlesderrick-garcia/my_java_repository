@@ -10,7 +10,8 @@ This repository contains a collection of Java programs developed as laboratory a
 * Lab Activity 4: Employee Information System GUI  
 * Lab Activity 5: Quiz Application AWT  
 * Lab Activity 6: Swing To-Do List Application  
-* My Midterm Lab Exam: IT Ticket Processing System
+* Midterm Lab Exam: IT Ticket Processing System
+* Final Group Project: Calculator Application
 
 ## **Lab Activity 1: Employee Information System**
 
@@ -42,7 +43,7 @@ This Java program creates a simple To-Do List application with a Graphical User 
 
 This Java program simulates a basic IT ticket processing system. It allows users to add new tickets, update their statuses, view all existing tickets, and generate a summary report. The system uses arrays to store ticket information and includes input validation to ensure data integrity. This program was created as a midterm laboratory exam.
 
-## **Finals Group Project: Calculator Application**
+## **Final Group Project: Calculator Application**
 
 This program contains a simple yet functional calculator application built using Java Swing. It provides standard arithmetic operations, a calculation history, and a theme toggle for a personalized user experience.
 
